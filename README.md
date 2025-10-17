@@ -1,6 +1,6 @@
 <!-- Optional banner (upload your own banner.png to this repo and change the src) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Banner">
+  <img src="https://iconscout.com/free-lottie-animation/free-github-logo-animation_3463512" width="200" alt="Banner">
 </p>
 
 <h1 align="center">Hi, I'm Hadia Mehar 👋</h1>
