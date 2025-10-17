@@ -3,7 +3,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlkbzB0N3hobjdwNnNnaXlzeGV5eHA5OTRqaW40amR6eWhidHJsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o07ZUIYM9X6ezjgtTt/giphy.gif" width="200" alt="Banner">
 </p>
 
-<h1 align="center">Hi, I'm Hadia Mehar 👋</h1>
+<h1 align="center">Hi, I'm Hadia </h1>
 <p align="centre">Aspiring Data Scientist with an SQA background, passionate about turning data into insight and precision into progress. </p>
 
 ## 🧭 Table of Contents
