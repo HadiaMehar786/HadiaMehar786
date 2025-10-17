@@ -1,6 +1,6 @@
 <!-- Optional banner (upload your own banner.png to this repo and change the src) -->
 <p align="center">
-  <img src="https://giphy.com/gifs/github-githublogo-4ljqMoDc8HZ8yMzz6G" width="200" alt="Banner">
+  <img src="https://giphy.com/gifs/github-githublogo-4ljqMoDc8HZ8yMzz6G/giphy.gif" width="200" alt="Banner">
 </p>
 
 <h1 align="center">Hi, I'm Hadia Mehar 👋</h1>
