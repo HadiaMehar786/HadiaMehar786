@@ -1,6 +1,6 @@
 <!-- Optional banner (upload your own banner.png to this repo and change the src) -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlkbzB0N3hobjdwNnNnaXlzeGV5eHA5OTRqaW40amR6eWhidHJsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o07ZUIYM9X6ezjgtTt/giphy.gif" width="300" alt="Banner">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlkbzB0N3hobjdwNnNnaXlzeGV5eHA5OTRqaW40amR6eWhidHJsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o07ZUIYM9X6ezjgtTt/giphy.gif" width="200" alt="Banner">
 </p>
 
 <h1 align="center">Hi, I'm Hadia Mehar 👋</h1>
