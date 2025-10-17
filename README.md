@@ -1,10 +1,10 @@
 <!-- Optional banner (upload your own banner.png to this repo and change the src) -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlkbzB0N3hobjdwNnNnaXlzeGV5eHA5OTRqaW40amR6eWhidHJsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o07ZUIYM9X6ezjgtTt/giphy.gif" width="200" alt="Banner">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlkbzB0N3hobjdwNnNnaXlzeGV5eHA5OTRqaW40amR6eWhidHJsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o07ZUIYM9X6ezjgtTt/giphy.gif" width="300" alt="Banner">
 </p>
 
 <h1 align="center">Hi, I'm Hadia Mehar 👋</h1>
-<p align="center">Aspiring AI / Data Science student — building projects and learning in public</p>
+<p align="centre">Aspiring Data Scientist with an SQA background, passionate about turning data into insight and precision into progress. </p>
 
 ## 🧭 Table of Contents
 - [About Me](#-about-me)
@@ -17,33 +17,29 @@
 
 ## 🧭 About Me
 **Name:** *Hadia Mehar*  
-**What I enjoy:** Solving problems with code, learning ML fundamentals, and turning ideas into simple apps.  
-**Currently exploring:** Python, data analysis, machine learning basics, and clean GitHub workflows.
+**What I enjoy:** Combining my SQA mindset with data storytelling to build reliable, insight-driven solutions.  
+**Currently exploring:** Python, data visualisation, and ML foundations for real-world analytics.
 
 > “The expert in anything was once a beginner.”
 
 ## 🛠️ Skills
 - **Languages:** Python, JavaScript (beginner), SQL (beginner)
-- **Data & ML:** pandas, NumPy, scikit-learn (basics), Jupyter Notebooks
+- **Data & ML:** pandas, NumPy, Jupyter Notebooks
 - **Web & APIs:** Flask / FastAPI (basics), REST (basics), HTML/CSS
-- **Tools:** Git & GitHub, VS Code, Google Colab
-- **Other:** Problem solving, documentation, presentation
+- **Tools:** Git & GitHub, VS Code
+- **Other:** Problem solving, Analytical, documentation, presentation
 
 ## 📂 My GitHub Repositories
-> Replace descriptions with your own, and feel free to swap these for your real projects.
 
-- [**portfolio-site**](https://github.com/HadiaMehar786/portfolio-site) — Simple personal site to showcase projects and contact info.
-- [**data-notebooks**](https://github.com/HadiaMehar786/data-notebooks) — Jupyter notebooks exploring datasets and visualizations.
-- [**ai-playground**](https://github.com/HadiaMehar786/ai-playground) — Small ML experiments (classification, regression, etc.).
+- [**Assignment**](https://github.com/HadiaMehar786/my-first-repo) — Assigment to practice Git and GitHub.
+
 
 ## 🧱 Projects Table
 | Project | Stack | What it does |
 |---|---|---|
-| Student Score Analyzer | **Python**, **pandas**, **matplotlib** | Cleans a CSV and plots insights |
-| Movie Recommender (mini)** | **Python**, **scikit-learn** | Simple content-based recommendations |
-| Notes Web App | **Flask**, **SQLite** | Basic CRUD app to store and search notes |
+|CareHub | **PHP**, **Laravel**, **VueJs**, **jQuery**, **MySQL**| a health and wellness platform |
+| SafeHerit | **Python**, **scikit-learn** | an advanced asset management platform |
 
-> **Tip:** Create repos with these names (or update the links above) so everything points correctly.
 
 ## 📊 Stats & Activity
 <!-- Replace below only if your username changes -->
@@ -56,14 +52,14 @@
 </p>
 
 ## ✅ Goals Checklist
-- [ ] Finish a **beginner ML** course and publish notes
-- [ ] Build and deploy a **portfolio website**
-- [ ] Complete **3 end-to-end projects** with README write-ups
-- [ ] Contribute to **one open-source** issue
-- [ ] Apply for an **AI/Data internship**
+- [ ] Complete a Data Analysis & Visualisation course and publish insights on GitHub.
+- [ ] Build and deploy a portfolio dashboard showcasing real datasets.
+- [ ] Finish 3 practical data projects (cleaning → analysis → visualisation) with clear documentation
+- [ ] Contribute to a data-focused open-source project or Kaggle discussion
+- [ ] Strengthen SQL, Power BI, and Excel skills to prepare for a Data Analyst career path
 
 ## ✨ Contact Me
 - Email: <hadia.mehar910@gmail.com>  
-- LinkedIn: https://www.linkedin.com/in/your-profile  
-- Portfolio: https://your-portfolio.example.com
+- LinkedIn: https://www.linkedin.com/in/hadia-mehar910  
+
 
